@@ -1,8 +1,6 @@
 # Travel-Management-System
 Travel-Management-System
-Tour and Travel Managemnt System using JAVA , JAVA-Swing & MySQL
-
-This is my first fully functionalble project using any Data-Base as MySQL
+I used  JAVA, JAVA-Swing & MySQL to create a fully functional GUI application. and  use MySQL to connect to DataBase
 
 All images icons are in icons folder
 ALL source code are in src/travel/management/system folder
